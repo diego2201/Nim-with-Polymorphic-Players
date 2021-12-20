@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"HumanPlayer"},{"p":"<Unnamed>","l":"IllegalMoveException"},{"p":"<Unnamed>","l":"MockPlayer"},{"p":"<Unnamed>","l":"Nim"},{"p":"<Unnamed>","l":"OptimalPlayer"},{"p":"<Unnamed>","l":"Piles"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"RandomPlayer"}];updateSearchResults();
